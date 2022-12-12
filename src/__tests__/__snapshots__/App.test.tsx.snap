@@ -1,0 +1,11 @@
+// Vitest Snapshot v1
+
+exports[`App > should match snapshot 1`] = `
+<body>
+  <div>
+    <div>
+      hi
+    </div>
+  </div>
+</body>
+`;
